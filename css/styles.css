@@ -5,8 +5,7 @@
 /* 2 - General Styles
 ------------------------------------------------------------------------*/
 
-body
-{
+body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
     color: #7e878f;
@@ -536,7 +535,7 @@ section
     text-align: right;
 }
 
-.timeline-post-left .timeline-post:first-child
+.timeline-post-right .timeline-post:first-child
 {
     margin-top: 65px;
 }

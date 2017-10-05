@@ -841,7 +841,7 @@ section
 .project-item img
 {
     display: block;
-    height: auto;
+    height: 292px;
     max-width: 100%;
     position: relative;
     transition: all 0.4s ease-out 0s;
